@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+tkinter
+customtkinter
+pillow
+PIL
+ast
+tqdm
+scipy
+CTkTable

@@ -1,0 +1,14 @@
+Power(W): 4.5
+PRF(Hz): 160
+Pulse duration(s): 0.003125
+Ux(mm/s): 5
+Fourier terms: 500
+Locz: 125
+Trunctemp: 3500
+Locx: 0
+Divsize: 1
+Rangey: 400
+Number of Pulses: 1
+Divisions of laser: 60
+Plots with respect to: 1
+Laser position: 0

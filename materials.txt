@@ -1,0 +1,7 @@
+Polycarbonate/ 0.2/ 1.3889
+Soda-lime/ 0.937/ 4.308
+Soda-lime HB/ 1.06/ 4.87356
+Quartz/ 1.4/ 9.497
+Silica_web/ 1.38/ 8.440
+Silica_book/ 1.37/ 8.401
+H13/ 28.6/ 53
